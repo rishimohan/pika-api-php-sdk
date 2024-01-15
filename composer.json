@@ -1,0 +1,13 @@
+{
+    "name": "pika/sdk",
+    "description": "Pika API SDK for PHP",
+    "version": "0.1.0",
+    "require": {
+        "guzzlehttp/guzzle": "7.8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PikaSdk\\": "src/"
+        }
+    }
+}
