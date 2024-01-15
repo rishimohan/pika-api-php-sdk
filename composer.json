@@ -2,6 +2,7 @@
     "name": "pika/sdk",
     "description": "Pika API SDK for PHP",
     "version": "0.1.0",
+    "type": "library",
     "require": {
         "guzzlehttp/guzzle": "7.8.1"
     },
@@ -9,5 +10,12 @@
         "psr-4": {
             "PikaSdk\\": "src/"
         }
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rishi Mohan",
+            "email": "iamrishi.ms@gmail.com"
+        }
+    ]
 }
