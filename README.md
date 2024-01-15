@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-composer require pika/sdk
+composer require rishimohan/pika-sdk
 ```
 
 ## Usage
