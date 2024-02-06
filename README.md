@@ -1,6 +1,6 @@
 # Pika API PHP SDK
 
-View on Packagist: [https://www.npmjs.com/package/pika-sdk](https://packagist.org/packages/rishimohan/pika-sdk)
+View on Packagist: [https://packagist.org/packages/rishimohan/pika-sdk](https://packagist.org/packages/rishimohan/pika-sdk)
 
 ## Installation
 
