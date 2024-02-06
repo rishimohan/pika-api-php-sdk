@@ -2,6 +2,7 @@
     "name": "rishimohan/pika-sdk",
     "description": "Pika API SDK for PHP",
     "type": "library",
+    "homepage": "https://pika.style/image-generation-api",
     "require": {
         "guzzlehttp/guzzle": "^7.8.1"
     },
